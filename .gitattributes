@@ -1,3 +1,6 @@
 MovingRobot.zip filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 SerchTables.zip filter=lfs diff=lfs merge=lfs -text
 rplidar_sdk_v1.6.1.zip filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 1a7d29d616ca0384f5e284d79fffc07a722cba6a
